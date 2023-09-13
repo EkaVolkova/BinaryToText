@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FinalTask": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\ekate\\Desktop\\Students.dat C:\\Users\\ekate\\Desktop\\Students",
+      "remoteDebugEnabled": false
+    }
+  }
+}
